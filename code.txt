@@ -40,4 +40,4 @@ import os
 
 cd facehallrnn/deneme
 
-!./../torch/install/bin/th emre2.lua
+!./../torch/install/bin/th clbemre.lua
